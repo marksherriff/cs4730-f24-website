@@ -27,15 +27,11 @@ Games currently under consideration are:
 - _Balatro_ 
 - _Return of the Obra Dinn_
 - _Summerhouse_
-- _Animal Well_
-- _(The) Gnorp Apologue_
 - _Fez_
 - _Chicory: A Colorful Tale_
 - _Untitled Goose Game_
 - _Papers, Please_
 - _Undertale_
-- _Portal_
-
 
 ## Quest Submission
 {: .no_toc }
