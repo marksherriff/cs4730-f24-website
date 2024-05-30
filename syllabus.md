@@ -108,10 +108,10 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 |:--------------|:-----|:---|:-----|:-----|
 |Random Encounters |	Small Groups or Individual |	min 10 |	10 |	min 100 |
 |Critical Analysis Quests |	Individual |	2 |	50 |	100 |
-|MonoGame Quests |	Individual |	3 |	50 |	150 |
+|Unity Engine Quests |	Individual |	3 |	50 |	150 |
 |Game Design Document |	Team |	1 |	50 |	50 |
 |Physical Game Prototype |	Team |	1 |	50 |	50 |
-|MonoGame Team Project | Team | 1 | 250 | 250 |
+|Team Game Project | Team | 1 | 250 | 250 |
 |Mini-Boss Battle (Midterm) |	Individual |	1 |	150 |	150 |
 |Final Boss Battle (Final Exam) | Individual | 1 | 150 | 150 |
 | __Total Course XP__ | | | | 1000 |
@@ -150,12 +150,12 @@ __Random Encounters:__
 * There will be a minimum of 10 of these throughout the semester.  However, there will likely be more than 10 and students can earn bonus XP for completing more random encounters.
 * Missed random encounters cannot be made up.
 
-## Game Project in MonoGame
+## Game Project in Unity
 * Students will pitch game ideas to the class at the beginning of the semester.
 * Students will then vote on the ideas, thus selecting the games they will be building on teams.
 * Team size will be three or four students.
-* Students must use the MonoGame frameworke to build their games.
-* There will be multiple in-class labs as tutorials for MonoGame.
+* Students must use the Unity engine to build their games.
+* There will be multiple in-class labs as tutorials for Unity.
 
 ## Class Management
 

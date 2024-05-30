@@ -18,18 +18,24 @@ nav_order: 4
 ## Quest Information
 {: .no_toc }
 
-__NOTE: These games are subject to change for the Fall 2024 semester!__
+<p><img style="float: left; padding: 10px" src="/assets/images/quest.png"> For this class, you are required to play two different games that we will analyze throughout the semester.</p>
+<br>
+Games currently under consideration are:
 
-<img style="float: left; padding: 10px" src="/assets/images/quest.png"> For this class, you are required to play two different games that we will analyze throughout the semester.
+- _A Short Hike_
+- _Celeste_
+- _Balatro_ 
+- _Return of the Obra Dinn_
+- _Summerhouse_
+- _Animal Well_
+- _(The) Gnorp Apologue_
+- _Fez_
+- _Chicory: A Colorful Tale_
+- _Untitled Goose Game_
+- _Papers, Please_
+- _Undertale_
+- _Portal_
 
-| __A Short Hike__ by adamgryu | __Celeste__ by Maddy Makes Games |
-| :----------------------------: | :--------------------------------------: |
-| ![A Short Hike Title Card](/assets/images/ashorthike.png) | ![Celeste Title Card](/assets/images/celeste.png)
-| Available at: [itch.io](https://adamgryu.itch.io/a-short-hike), [Steam](https://store.steampowered.com/app/1055540/A_Short_Hike/), Nintendo eShop, and other platforms | Available at: [itch.io](https://mattmakesgames.itch.io/celeste), [Steam](https://store.steampowered.com/app/504230/Celeste/), Nintendo eShop, and other platforms
-| _Objective:_ Complete the main story of the game | _Objective:_ Complete through the beginning of Chapter 4 with and/or without assists turned on | 
-| _Estimated time to complete:_ 2 hours | _Estimated time to complete:_ 3 hours |
-
-_Note:_ We are going to be talking specifically about the assist options in _Celeste_.  Even if you can get to Chapter 4 without the assists, make sure to play the game with them at some point to see how they work.  Also, if you need to use the assists to make it to Chapter 4, that's fine.  Try to at least get through Chapter 1 without them, however.
 
 ## Quest Submission
 {: .no_toc }
@@ -90,98 +96,9 @@ If you choose your own game, it can be a game you have already played, although 
 
 Some content here used with permission from [Game Design Concepts by Ian Schreiber](http://gamedesignconcepts.wordpress.com/2009/07/06/level-3-formal-elements-of-games/).
 
+# Unity Engine Quests
 
-# MonoGame - Level 1: Animation and Control
-
-__NOTE: The game engine for Fall 2024 has not yet been decided.  This was an assignment for Spring 2023.__
-
-## Quest Information
-{: .no_toc }
-<img style="float: left; padding: 10px" src="/assets/images/quest.png"> Over the course of three levels, you will be building out some basic functionality for a game built on MonoGame.  Level 1 will focus on animation and control.  You are welcome to use any tutorials or example code you find, but make sure to cite any sources used in your code and in the submission to Gradescope.
-
-1. Accept the assignment from GitHub Classroom: [https://classroom.github.com/a/qa9BdJCd](https://classroom.github.com/a/qa9BdJCd)
-2. Clone the repo locally and create a new project inside this folder named "Level 1".
-3. Import a sprite sheet of your choosing, but it needs to be loosly a character with the following animation states for the noted XP:
-   * When standing still (either at the bottom of the Cornflower Blue window or a platform (invidible or not)), there should be a minimum 3 frame idle animation [5 XP]
-   * The idle animation should be mirrored when the character is turned left or right [5 XP]
-   * The character should be able to be controlled in the following way: A moves left, D moves right, W jumps [5 XP]
-   * Gravity should affect the character and bring it back down to a resting state in a "reasonable" way after they jump [10 XP]
-   * When the character jumps, there should be a switch to an appropriate jumping animation set [10 XP]
-   * Implement one other "action" of some kind with another animation set and map it to the space bar [10 XP] (Examples could include an attack animation, a slide animation, casting a spell, etc.)
-
-If you are looking for spritesheets and assets there are MANY available at [https://itch.io/game-assets](https://itch.io/game-assets) for free or for a small price/donation.
-
-## Quest Submission
-{: .no_toc }
-<img style="float: left; padding: 10px" src="/assets/images/turnin.png"> 
-
-Make sure to push the final version of your code to GitHub before the deadline.
-
-Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) under "MonoGame - Level 1: Animation and Control" regarding your project [5 XP].
-
-
-# MonoGame - Level 2: Collision and Physics
-
-__NOTE: The game engine for Fall 2024 has not yet been decided.  This was an assignment for Spring 2023.__
-
-## Quest Information
-{: .no_toc }
-<img style="float: left; padding: 10px" src="/assets/images/quest.png"> Building on your code from Level 1, you will now implement some basic physics and collision detection for your mini-game.
-
-1. Before making any changes to your code, go to your repo in GitHub and create a new branch called "Level 1" so you can have a version of the code as it was before you started this next assignment.  You can now continue on your `main` branch for Level 2.  It is fine that your project is still called Level 1.
-2. Add the following sprites and functionality to your mini-game:
-   * Import three new sprites (these do not have to be animated): two different types of platforms and a box/crate/brick/block of some kind.  The actual sprites don't really matter as long as you can tell them apart.  [5 XP]
-   * Platform type 1 should be completely solid on all sides.  The player sprite cannot jump up through it from the bottom or the side.  The player sprite should land on it and not fall through if they jump on top of it.  [10 XP]
-   * Platform type 2 should only be solid from the top.  The player sprite should be able to jump up through the sprite and then land on top.  Same with jumping from the side or at an angle.  [10 XP]
-   * The Box sprite should be sitting on the type 2 Platform.  The player sprite should be able to move it by pushing against it.  When the box is no longer touching the platform, it should fall to the ground (which could just be the bottom of the window or you could make an actual ground).  [10 XP]
-   * Your "action" button (space bar) from Level 1 should knock the box in a straight line until it collides with another object.  Note that if your gravity is working in the item above, the box should fall as it's flying in a given direction. [10 XP]
-
-If you are looking for spritesheets and assets there are MANY available at [https://itch.io/game-assets](https://itch.io/game-assets) for free or for a small price/donation.
-
-## Quest Submission
-{: .no_toc }
-<img style="float: left; padding: 10px" src="/assets/images/turnin.png"> 
-
-Make sure to push the final version of your code to GitHub before the deadline.
-
-Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) under "MonoGame - Level 2: Collision and Physics" regarding your project [5 XP].
-
-
-# MonoGame - Level 3: Tiled Level Design
-
-__NOTE: The game engine for Fall 2024 has not yet been decided.  This was an assignment for Spring 2023.__
-
-## Quest Information
-{: .no_toc }
-<img style="float: left; padding: 10px" src="/assets/images/quest.png"> Continuing to build on your code from Level 2, you will now create a full level using Tiled for your character to explore.
-
-1. Before making any changes to your code, go to your repo in GitHub and create a new branch called "Level 2" so you can have a version of the code as it was before you started this next assignment.  You can now continue on your `main` branch for Level 3.  It is fine that your project is still called Level 1.
-2. Using Tiled - available at [https://www.mapeditor.org/](https://www.mapeditor.org/) - create a "level" for your character to explore.  This can be just a single screen or it can scroll. 
-   * Working level map [25 XP]
-   * Use all three of the platforms/boxes that you had from level 2 [10 XP]
-   * Have a way for the level to "end" - even if that makes the program exit [10 XP]
-   * Bonus!  Have more than one map that the user can choose! [10 XP]
-   * Bonus!  Add things to collect, like coins, and a counter on the screen that shows how many you collected! [10 XP]
-
-If you are looking for spritesheets and assets there are MANY available at [https://itch.io/game-assets](https://itch.io/game-assets) for free or for a small price/donation.
-
-There are lots of resources you can use to learn how to use Tiled with MonoGame.  The basic thing to remember is that the Tiled program isn't anything more than a graphical interface that outputs `.tmx` files.  Which are just `.xml` or you can also do `.json.`  There's no magic library here.  There are several libraries you can use to then read in the files generated by Tiled to build your level.  
-
-* TiledCS - [https://github.com/ironcutter24/TiledCS-example-MonoGame](https://github.com/ironcutter24/TiledCS-example-MonoGame)
-
-## UPDATE
-
-As mentioned in class, the main learning objective here is "data-driven design."  If you build your mini-game _in some fashion_ where a level is loaded from a data file (`.csv`, `.xml`, `.tmx`, `.json`, etc) and not hard-coded into your C# code, then I believe the learning objective has been met.  If you do not use Tiled or TiledCS in the end, it is okay.  But your level __must__ be loaded from outside the code.
-
-If you do something different, __make sure to explain it fully in the Gradescope submission.__
-
-## Quest Submission
-{: .no_toc }
-<img style="float: left; padding: 10px" src="/assets/images/turnin.png"> 
-
-Make sure to push the final version of your code to GitHub before the deadline.
-
-Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) under "MonoGame - Level 3: Tiled Level Design" regarding your project [5 XP].
+There will be a number of assignments to learn Unity.  The final number and nature of these assignments has not been determined yet.
 
 # Team Game Project
 
