@@ -32,6 +32,9 @@ Games currently under consideration are:
 - _Untitled Goose Game_
 - _Papers, Please_
 - _Undertale_
+- _Headlines and High Water_
+- _Loddlenaut_
+- _Wake: Tales from the Underlab_
 
 ## Quest Submission
 {: .no_toc }
