@@ -24,11 +24,11 @@ Tuesdays and Thursdays @ 11:00 AM-12:15 PM in Thornton A120
 ## Staff Information
 __Instructor:__ Prof. Mark Sherriff   
 Office: Rice 400   
-Office Hours: TBD 
+Office Hours: Wednesdays 9:00-11:00 AM & Thursdays 12:30-2:30 PM     
 Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
-__Teaching Assistants:__ TBD
+__Teaching Assistants:__ Thomas Arnold, Sebastian Fugle, and Jennifer Vo
 
 ## Course Description and Requirements
 
@@ -60,9 +60,12 @@ Upon successful completion of this course, students will:
 
 ### Course Requirements
 {: .no_toc }
-1. Prereq: Old Curriculum - CS 2150 / New Curriculum - CS 3140
-2. __MUST__ attend class regularly.
-3. You will be expected to learn programming languages and platforms on your own in this class! If you don’t feel comfortable with this, please talk to Prof. Sherriff as soon as possible!
+You should meet the following requirements to take this class:
+
+*  __Prerequisite: CS 2150 --OR-- CS 3140 with a grade of C- or higher.__  Students that do not meet this prerequisite may be dropped at any point from the class.  It is the student's responsibility to check this prerequisite and/or speak with the instructor ASAP.
+*  Willing and able to attend in-person lectures.
+*  Be a meaningful contributor to your team project, which includes being in contact with your team AND writing code that will be incorporated into the final version of the product.
+*  You will be expected to learn programming languages and platforms on your own in this class! If you don’t feel comfortable with this, please talk to the staff as soon as possible!
 
 ### Textbooks
 {: .no_toc }
@@ -83,7 +86,7 @@ We will be using Piazza for the following:
 
 We will not be using Piazza for:
 
-* Regrades (use Gradescope first, then office hours only if not resolved)
+* Reassessment of graded work (use Gradescope)
 
 ### Email
 {: .no_toc }
@@ -91,11 +94,11 @@ We will not be using Piazza for:
 We will be using email for the following:
 
 * Personal issues that can and should only be handled by a professor
-* Team issues that need to be escalated
+* Team issues that need to be escalated beyond the TA
 
 We will not be using email for:
 
-* Regrades (use Gradescope first, then office hours only if not resolved)
+* Reassessment of graded work (use Gradescope)
 * Tech help (use Piazza)
 * Project questions (use Piazza)
 
@@ -106,12 +109,13 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 
 | Assessment	| Who	| Instances	| Max XP 	| Max XP Avail |
 |:--------------|:-----|:---|:-----|:-----|
-|Random Encounters |	Small Groups or Individual |	min 10 |	10 |	min 100 |
+|Random Encounters |	Small Groups or Individual |	??? |	5 |	min 50 |
 |Critical Analysis Quests |	Individual |	2 |	50 |	100 |
+|Pico-8 Mini-Game Quest | Individual | 1 | 100 | 100 |
 |Unity Engine Quests |	Individual |	3 |	50 |	150 |
 |Game Design Document |	Team |	1 |	50 |	50 |
 |Physical Game Prototype |	Team |	1 |	50 |	50 |
-|Team Game Project | Team | 1 | 250 | 250 |
+|Team Game Project | Team | 1 | 200 | 200 |
 |Mini-Boss Battle (Midterm) |	Individual |	1 |	150 |	150 |
 |Final Boss Battle (Final Exam) | Individual | 1 | 150 | 150 |
 | __Total Course XP__ | | | | 1000 |
@@ -150,20 +154,24 @@ __Random Encounters:__
 * There will be a minimum of 10 of these throughout the semester.  However, there will likely be more than 10 and students can earn bonus XP for completing more random encounters.
 * Missed random encounters cannot be made up.
 
-## Game Project in Unity
-* Students will pitch game ideas to the class at the beginning of the semester.
-* Students will then vote on the ideas, thus selecting the games they will be building on teams.
-* Team size will be three or four students.
-* Students must use the Unity engine to build their games.
-* There will be multiple in-class labs as tutorials for Unity.
+### Reassessment Policy
+{: .no_toc }
+You may request a reassessment of any graded work in this course, subject to the following conditions:
+
+- Students may only request the reassessment of returned coursework in writing via Gradescope. A verbal appeal is not appropriate and will not be accepted nor will requests made through other methods (e.g. email, office hours, etc.).  If a follow up is necessary, we will reach out to you to come to office hours to provide additional information. All reassessment requests will be handled by the instructors.
+- Reassessment requests will open 24 hours after grades are released and will close 7 days after a grade has been released.
+- Students must provide a written rationale for requesting reassessment, with specific reference to: the learning outcomes, assessment rubric, qualitative grade descriptors, and any feedback provided to you.
+- Reassessment requests that are based on feeling or hearsay rather than information indicated above will not be considered and no further reassessment may be made. Examples include: "I feel you graded this too harshly", "My friend did the same thing and got a better score", etc.
+- Students who submit an item for reassessment are advised that the entire work will may be reconsidered and that the result of the reassessment may be that the grade will increase, stay the same, or decrease accordingly.
+- Graded work may only be reassessed once -- you may not request reassessment a second time for the same item/problem and any changes to the grade made during reassessment will be final.
 
 ## Class Management
 
 ### Attendance
 {: .no_toc }
 
-* In-person attendance is expected and generally required for this class, especially on lab activity days.
-* Attendance will be taken on all lab activity and random encounter days.  There will be (on average) one lab day per week.
+* In-person attendance is expected and generally required for this class, especially on activity days.
+* Attendance will be taken on all activity and random encounter days.  There will be (on average) one activity day per week.
 
 ### Late Policy
 {: .no_toc }

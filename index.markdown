@@ -19,9 +19,10 @@ Our course is an introductory course in video game design and production. We wil
 ## Staff Information
 __Instructor:__ Prof. Mark Sherriff   
 Office: Rice 400   
-Office Hours: TBD    
+Office Hours: Wednesdays 9:00-11:00 AM & Thursdays 12:30-2:30 PM       
 Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
-__Teaching Assistants:__ TBD
+__Teaching Assistants:__ Thomas Arnold, Sebastian Fugle, and Jennifer Vo
 
+__TA Office Hours:__ TBD
