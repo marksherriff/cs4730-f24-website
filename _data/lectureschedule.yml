@@ -1,189 +1,156 @@
-- topic: Course Intro and What is Software Engineering?
+- topic: Course Intro and History of Game Industry
   type: lecture
   date: 08/27
-  coursepack: 'https://www.cs3240.org/modules/process/what-is-se/'
+  coursepack: '#'
   guided_practice:
   artifact: 
   form:
   sprint_report:
   django:
 
-- topic: What is Software Engineering?
+- topic: What is a Game?
   type: lecture
   date: 08/29
-  coursepack: 'https://www.cs3240.org/modules/process/what-is-se/'
+  coursepack: '#'
 
-- topic: Software Construction
+- topic: Game Design Kits
   type: lecture
   date: 09/03
-  coursepack: https://www.cs3240.org/modules/process/software-construction/
-  due: "GP-A: GitHub (Gradescope)"
-  due2: Project Preference Form
-  topic2: Project Info
-  coursepack2: "#"
+  coursepack: '#'
 
-- topic: Software Process
+- topic: Mechanics, Dynamics, Aesthetics
   type: lecture
   date: 09/05
-  coursepack: https://www.cs3240.org/modules/process/software-process/
-  topic2: Plan-Driven Methods
-  coursepack2: https://www.cs3240.org/modules/process/plan-driven-methodologies/
+  coursepack: '#'
   
-- topic: Agile Methods
+- topic: TBD
   type: lecture
   date: 09/10
-  coursepack: https://www.cs3240.org/modules/process/agile-methodologies/
-  due: "GP-B: Polar Chart (In-Class^)"
+  coursepack: '#'
 
-- topic: Working on a Software Team
+- topic: TBD
   type: lecture
   date: 09/12
-  coursepack: "https://docs.google.com/presentation/d/1EdJfVTeU6jIvB90deU-b1adM-HJs-fwhaObR7gJPy_U/edit?usp=sharing"
-  topic2: Requirements Engineering
-  coursepack2: https://www.cs3240.org/modules/requirements/requirements-engineering/
+  coursepack: '#'
 
-- topic: Requirements Engineering
+- topic: TBD
   type: lecture
   date: 09/17
-  coursepack: https://www.cs3240.org/modules/requirements/requirements-engineering/
-  topic2: Requirements Elicitation
-  coursepack2: https://www.cs3240.org/modules/requirements/requirements-elicitation/
+  coursepack: '#'
 
-- topic: Requirements Specification
+- topic: TBD
   type: lecture
   date: 09/19
-  coursepack: https://www.cs3240.org/modules/requirements/requirements-specification/
-  topic2: Risk Management
-  coursepack2: https://www.cs3240.org/modules/requirements/risk-management/
+  coursepack: '#'
 
-- topic: Guided Practice C & Quiz Review
+- topic: TBD
   type: lecture
   date: 09/24
-  due: "GP-C: Planning Game (In-Class^)"
-  due_link_to_release: "#"
-  due2: "Django Practice (Gradescope)"
+  coursepack: '#'
 
-- topic: Quiz 1 - Software Process and Requirements
-  type: quiz
+- topic: TBD
+  type: lecture
   date: 09/26
+  coursepack: '#'
 
-- topic: Django, Heroku, and DevOps
+- topic: TBD
   type: lecture
   date: 10/01
-  coursepack: https://www.cs3240.org/modules/architecture/Django-and-MVC/
+  coursepack: '#'
 
-- topic: Software Architecture
+- topic: TBD
   type: lecture
   date: 10/03
-  coursepack: https://www.cs3240.org/modules/architecture/arch-intro/
+  coursepack: '#'
 
-- topic: Model / View / Controller
+- topic: TBD
   type: lecture
   date: 10/08
-  coursepack: https://www.cs3240.org/modules/architecture/mvc/
-  topic2: REST
-  coursepack2: https://www.cs3240.org/modules/architecture/rest/
+  coursepack: '#'
 
-- topic: Web Services
+- topic: TBD
   type: lecture
   date: 10/10
-  coursepack: https://www.cs3240.org/modules/architecture/web-services/
-  topic2: Modularity Review
-  coursepack2: https://www.cs3240.org/modules/design/modularity/
-  due: "GP-D: Frameworks (Gradescope)"
-  due_link_to_release: "#"
+  coursepack: '#'
 
 - topic: Fall Break (No classes)
   type: holiday
   date: 10/15
 
-- topic: Reading and Understanding Design Documents
+- topic: TBD
   type: lecture
   date: 10/17
-  coursepack: "https://docs.google.com/presentation/d/1fkEQYXRyqcEQgDm9erP3G81TVbzH1yxvlM1yL3Vqz4o/edit?usp=sharing"
+  coursepack: '#'
 
-- topic: Reading Design Documents
+- topic: TBD
   type: lecture
   date: 10/22
-  coursepack: #
-  due: "GP-E: Design Diagrams (In-Class^)"
-  due_link: #
+  coursepack: '#'
 
-- topic: Verification and Validation 
+- topic: TBD
   type: lecture
   date: 10/24
-  coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
+  coursepack: '#'
 
-- topic: Verification and Validation 
+- topic: TBD
   type: lecture
   date: 10/29
-  coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
-  due: "GP-F: V&V Techniques (In-Class^)"
-  due_link: # 
+  coursepack: '#'
 
-- topic: Quiz 2 - Software Architecture and Design
-  type: quiz
+- topic: TBD
+  type: lecture
   date: 10/31
+  coursepack: '#'
 
 - topic: Election Day (No classes)
   type: holiday
   date: 11/05
 
-- topic: Software Maintenance
+- topic: TBD
   type: lecture
   date: 11/07
-  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
+  coursepack: '#'
 
-- topic: Software Debugging
+- topic: TBD
   type: lecture
   date: 11/12
-  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
+  coursepack: '#'
 
-- topic: DEI in Software Engineering
+- topic: TBD
   type: lecture
   date: 11/14
-  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/jedi/"
+  coursepack: '#'
 
-- topic: SE Code of Ethics
+- topic: TBD
   type: lecture
   date: 11/19
-  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/se-code-of-ethics/"
-  due: "GP-G: Ethics (In-Class^)"
-  due_link: #
+  coursepack: '#'
 
-- topic: Personas and Wireframes
+- topic: TBD
   type: lecture
   date: 11/21
-  coursepack: "https://www.cs3240.org/modules/design/usability/"
-  due: "GP-H: Wireframes (In-Class^)"
+  coursepack: '#'
 
-- topic: Software Licensing
+- topic: TBD
   type: lecture
   date: 11/26
-  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/licensing/"
+  coursepack: '#'
 
 - topic: Thanksgiving (No classes)
   type: holiday
   date: 11/28
 
-- topic: Quiz 3 - Usability and Professional Issues
-  type: quiz
+- topic: TBD
+  type: lecture
   date: 12/03
+  coursepack: '#'
 
 - topic: Course Review
   type: lecture
   date: 12/05
-  due: "GP-I: Licenses (Gradescope)"
-  due_link_to_release: "#"
+  coursepack: '#'
 
-- topic: Exam Session 1 @ 9:00 AM
+- topic: Final Boss Battle @ 9:00 AM
   type: quiz
-  date: 12/14
+  date: 12/16
   due: "Final Exam Info"
-  due_link_to_release: "#"
-
-- topic: Exam Session 2 @ 2:00 PM
-  type: quiz
-  date: 12/17
-  due: "Final Exam Info"
-  due_link_to_release: "#"
