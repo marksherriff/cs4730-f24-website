@@ -18,27 +18,23 @@ nav_order: 4
 ## Quest Information
 {: .no_toc }
 
-<p><img style="float: left; padding: 10px" src="/assets/images/quest.png"> For this class, you are required to play two different games that we will analyze throughout the semester.</p>
-<br>
-Games currently under consideration are:
+<img style="float: left; padding: 10px" src="/assets/images/quest.png"> For this class, you are required to play two different games that we will analyze throughout the semester.
 
-- _A Short Hike_
-- _Celeste_
-- _Balatro_ 
-- _Return of the Obra Dinn_
-- _Summerhouse_
-- _Fez_
-- _Chicory: A Colorful Tale_
-- _Untitled Goose Game_
-- _Papers, Please_
-- _Undertale_
-- _Headlines and High Water_
-- _Loddlenaut_
-- _Wake: Tales from the Underlab_
+| __A Short Hike__ by adamgryu | __Celeste__ by Maddy Makes Games |
+| :----------------------------: | :--------------------------------------: |
+| ![A Short Hike Title Card](/assets/images/ashorthike.png) | ![Celeste Title Card](/assets/images/celeste.png)
+| Available at: [itch.io](https://adamgryu.itch.io/a-short-hike), [Steam](https://store.steampowered.com/app/1055540/A_Short_Hike/), Nintendo eShop, and other platforms | Available at: [itch.io](https://mattmakesgames.itch.io/celeste), [Steam](https://store.steampowered.com/app/504230/Celeste/), Nintendo eShop, and other platforms
+| _Objective:_ Complete the main story of the game | _Objective:_ Complete through the beginning of Chapter 4 with and/or without assists turned on | 
+| _Estimated time to complete:_ 2 hours | _Estimated time to complete:_ 3 hours |
+
+_Notes about Celeste:_ 
+
+- We are going to be talking specifically about the assist options in _Celeste_.  Even if you can get to Chapter 4 without the assists, make sure to play the game with them at some point to see how they work.  Also, if you need to use the assists to make it to Chapter 4, that's fine.  Try to at least get through Chapter 1 without them, however.
+- While a controller is not strictly required, you'll have a better time with the game if you do not use a keyboard.  Controllers are available to borrow, if needed.
 
 ## Quest Submission
 {: .no_toc }
-<img style="float: left; padding: 10px" src="/assets/images/turnin.png">  No submission required specifically for playing the games.
+<img style="float: left; padding: 10px" src="/assets/images/turnin.png">  No submission required specifically for playing the games, but you need to complete them before the Mini-Boss Battle.
 
 # Critical Analysis Quest
 
@@ -89,7 +85,6 @@ You will complete this assessment at least twice:
 
 * once for either _A Short Hike_ or _Celeste_
 * once for a game of your choosing (including the other option of _A Short Hike_ or _Celeste_) 
-* optionally one more time as your Player's Choice Quest
 
 If you choose your own game, it can be a game you have already played, although you may need to refresh your memory.  If you need some thoughts on what games to play, I'm happy to offer suggestions.  
 
