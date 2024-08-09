@@ -46,32 +46,21 @@ First, watch this:
 {: .no_toc }
 <img style="float: left; padding: 10px" src="/assets/images/quest.png"> What is a critical analysis, and why do we care?
 
-Critical analysis is not just a game review. We are not concerned with how many out of five stars, or any numbers from 0 to 10, or whether or not a game is “fun” (whatever that means to you).
+A critical analysis is not just a game review. We are not concerned with how many out of five stars, or any numbers from 0 to 10, or whether or not a game is “fun” (whatever that means to you).  It also does not just mean a list of things that are wrong with the game. The word “critical” in this context does not mean “fault-finding,” but rather a thorough and unbiased look at the game.
 
-Critical analysis does not just mean a list of things that are wrong with the game. The word “critical” in this context does not mean “fault-finding” but rather a thorough and unbiased look at the game.
+Analyzing a game in this way is useful when discussing or comparing games. You can say “I like the card game 'Bang!' because it’s fun” but that does not help us as designers to learn _why_ it is fun. We must look at the parts of games and how they interact in order to understand how each part relates to the play experience.
 
-Critical analysis is useful when discussing or comparing games. You can say “I like the card game Bang! because it’s fun” but that does not help us as designers to learn why it is fun. We must look at the parts of games and how they interact in order to understand how each part relates to the play experience.
+It is also useful when examining our own works in progress. For a game that you’re working on, how do you know what to add or remove to make it better?
 
-Critical analysis is also useful when examining our own works in progress. For a game that you’re working on, how do you know what to add or remove to make it better?
+To complete a Critical Analysis Quest, write a paper (probably at least 3 pages) that does the following:
 
-To complete a Critical Analysis assignment, write a paper (probably at least 2-3 pages) that does the following (and most likely somewhat in this order):
-
-* Give a high-level description of the game, game’s history, or other introductory information you think is appropriate. I would expect also to see what you believe the games main aesthetics are here (as defined by the MDA paper).
-* Describe the game’s formal elements. Do not interpret at this point, simply state what is there.
-* Describe the results of the formal elements when put in motion. How do the different elements interact? What is the play of the game like? Is it effective?
-* Specifically discuss the mechanics, dynamics, and aesthetics of the game.
+* Give a high-level description of the game, game’s history, or other introductory information you think is appropriate.  (Probably roughly a paragraph or so - enough to get your point across, but doesn't go too deep into details.)
+* Describe what the game actually is.  Example: How would you describe the gameplay of _Super Mario Bros. Wonder_ to someone that had never played it before?  You want to tell them enough so that they get a good enough sense of the game and gameplay that when you go into deeper detail about aspects of it, they can follow what you are saying.
+* Pick one (or two) main "interesting" aspects of the game and describe _why_ and _how_ they are interesting in the context of the mechanics, dynamics, and aesthetics and the formal elements of the game.
+    - Example: What about the wonder flower mechanic in _Super Mario Bros. Wonder_ sets it apart?  What aesthetic is it drawing on?  How does it change the mechanics of the game?
 * Try to understand why the designer chose those elements and not others. Why this particular player structure, and why that set of resources? What would have happened if the designer had chosen differently?
 
-Some questions to ask yourself during a critical analysis at various stages:
-
-* What challenges do the players face? What actions can players take to overcome those challenges?
-* How do players affect each other?
-* Is the game perceived by the players as fair? (Note that it may or may not actually be fair. Perception and reality often differ.)
-* Is the game replayable? Are there multiple paths to victory, varied start positions, or optional rules that cause the experience to be different each time?
-* What is the game’s intended audience? Is the game appropriate for that audience?
-* What is the “core” of the game - the one thing you do over and over that represents the main “fun” part?
-
-NOTE: Literally just answering the above questions WILL NOT result in a good score.  I expect you to put some thought into how best analyze the game you are looking at.  Some of these questions make no sense for certain games and tossing "an answer" to them in your paper would be frowned upon.
+Basically, prove to me that you have some thoughts as to why this game does what it does, how it is executed, and why it is interesting to consider.  Comparing and contrasting how this game did something versus another is another way of approaching this question, but shouldn't be the only thing a paper utilizes.
 
 ## Quest Submission
 {: .no_toc }
@@ -90,9 +79,13 @@ If you choose your own game, it can be a game you have already played, although 
 
 Some content here used with permission from [Game Design Concepts by Ian Schreiber](http://gamedesignconcepts.wordpress.com/2009/07/06/level-3-formal-elements-of-games/).
 
-# Unity Engine Quests
+# PICO-8 Mini-Game Quest
 
-There will be a number of assignments to learn Unity.  The final number and nature of these assignments has not been determined yet.
+_More info coming soon!_
+
+# Unity Mini-Game Quest
+
+_More info coming soon!_
 
 # Team Game Project
 
@@ -134,36 +127,6 @@ Game documentation, team evaluations, use of GitHub all fall under this category
 * high evaluation marks from teammates;
 * the documentation submitted follows the outline and contains all necessary information;
 * GitHub was used effectively, showing good software development techniques.
-
-### Setup and GitHub Classroom
-{: .no_toc }
-
-* One member of your team should accept the GitHub Classroom assignment at [https://classroom.github.com/a/lSFanMG-](https://classroom.github.com/a/lSFanMG-) and name the repo the name of your game.
-* I expect your team to use good development practices with git, branching, etc.
-* You can use any frameworks/libraries that you find available.  Make sure to cite them!
-
-### Project Check #1
-
-At this stage, you must have:
-
-* The repo initialized
-* The project created and can launch to at least Cornflower Blue
-* Some ideas/examples of what your sprites/assets could be
-
-You do not have to have any significant functionality at this point.  However, note that your design document is also due on the same day!
-
-### Project Check #2
-
-At this stage, you must have:
-
-* Your basic mechanics working to the point that they can be demoed
-* More sprites/assets in the game
-
-You do not have to have done any significant level design at this point.
-
-### Project Beta
-
-At this stage, you must have at least two levels (or whatever equivalent that is for your game) that are fully functional and can be played by someone NOT on your team without significant instruction or guidance.  We will be doing playtesting of games and the game needs to be up and running!
 
 ## Quest Submission
 {: .no_toc }
