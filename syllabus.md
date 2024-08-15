@@ -239,19 +239,29 @@ Use the following format (or something functionally similar) as an example citin
 ***************************************************************************************/
 ```
 
+## Policy on Use of Generative AI
+{: .no_toc }
+In general, we will treat the use of generative AI the same as we would a student asking for help on StackOverflow or finding other sources of code.  For coding questions (i.e. "How do I make a 2D sprite appear in Unity?"), students are welcome to use generative AI.  This includes tools such as ChatGPT, GitHub Copilot, and other code completion systems.  
+
+For critical analyses or other creative prompts, generative AI is discouraged.  While these tools can give you some impressive boilerplate text that would work for a generic presentation, it's not going to touch on the things that I expect to see in these documents.  Usage of AI for cleaning up grammar or other structural aspects of documents is allowed.
+
 ## Miscellaneous Policies
 
 ### Inclement Weather Policy
 {: .no_toc }
 If there is the possibility of inclement weather that could affect class, it is your responsibility to stay informed.  Information about how to sign up for email and/or text alerts from UVA Emergency Management, along with the current University status, can be found at [https://uvaemergency.virginia.edu/](https://uvaemergency.virginia.edu/).
 
-### SDAC and Other Special Circumstances
+### SDAC / Students with Disabilities or other Learning Needs
 {: .no_toc }
 It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please make an appointment to with your instructor outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at [cmacmasters@virginia.edu](mailto:cmacmasters@virginia.edu) to schedule an appointment. For general questions please visit the SDAC website: [sdac.studenthealth.virginia.edu](http://sdac.studenthealth.virginia.edu). 
 
 If you have already been approved for accommodations through SDAC, please send your instructor your accommodation letter as soon as possible. We happily and discretely provide the recommended accommodations for those students identified by the SDAC. For quizzes and other individual assessments, please remind us one week before an exam so we can make accommodations.  For team related assessments, we cannot grant significant accommodations for an entire team due to just one person. However, we are more than happy to discuss with you the best way to integrate with your team with your accommodations in consideration. Please make an appointment with your instructor outside of office hours to have this discussion.
 
 If you have other special circumstances (athletics, other university-related activities, etc.), please contact the instructor as soon as you know these may affect you in class.
+
+### Health Accommodations
+{: .no_toc }
+It is in the best interest of everyone in our community to keep the spread of infectious disease to a minimum.  If you are ill, please do not come to class.  Lectures from previous semesters will be made available along with the course materials on the course pack and you can follow along there.  Quiz accommodations can be made on a case-by-case basis.  Due to their team-based nature, certain activities cannot be made up.  If a student must miss an excessive number of these types of activities, they should meet with the instructor to discuss options.
 
 ### Religious Accommodations
 {: .no_toc }
@@ -274,13 +284,13 @@ __NOTE:__ These resources are available for BACS majors as well!  You are still 
 ### Learning
 {: .no_toc }
 * [Lisa Lampe](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Education
-* [Blake Calhoun](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Success 
+* [Georgina Nembhard](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Success 
 * [Courtney MacMasters](mailto:cmacmasters@virginia.edu), Accessibility Specialist
 * [Free tutoring](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/tutoring) is available for most classes
 
 ### Health and Wellbeing
 {: .no_toc }
-* [Assistant Dean of Students](https://engineering.virginia.edu/about/offices/office-graduate-programs/student-support-services#accordion716460), Student Safety and Support  
+* [Kelly Garrett](mailto:mwu5gs@virginia.edu), Assistant Dean of Students, Student Safety and Support  
 * Elizabeth Ramirez-Weaver, CAPS counselor
 * Katie Fowler, CAPS counselor
 
@@ -291,7 +301,7 @@ You may schedule time with the CAPS counselors through [Student Health](https://
 The [Center for Diversity in Engineering](https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering) (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
 
 
-### Statement on Violence
+### Harassment, Discrimination, and Interpersonal Violence
 {: .no_toc }
 The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the [UVA Sexual Violence website](http://www.virginia.edu/sexualviolence) that describes reporting options and resources available.  
 
