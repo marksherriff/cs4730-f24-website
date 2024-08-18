@@ -63,6 +63,7 @@
   type: exam
   date: 10/08
   coursepack: '#'
+  due: "Finish _Required Games_ Quest"
 
 - topic: Physical Prototyping
   type: lecture
