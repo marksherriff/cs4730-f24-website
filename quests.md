@@ -68,9 +68,7 @@ Basically, prove to me that you have some thoughts as to why this game does what
 
 Submit a PDF of your paper to the appropriate assignment in [Gradescope]({{ site.data.externallinks.gradescope }}).
 
-[An example Critical Eye on Hearthstone from Spring 2014](/assets/materials/HearthstoneCriticalEye.pdf)
-
-You will complete this assessment at least twice: 
+You will complete this assessment twice: 
 
 * once for either _A Short Hike_ or _Celeste_
 * once for a game of your choosing (including the other option of _A Short Hike_ or _Celeste_) 
