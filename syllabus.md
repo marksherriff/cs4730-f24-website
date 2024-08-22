@@ -24,7 +24,7 @@ Tuesdays and Thursdays @ 11:00 AM-12:15 PM in Thornton A120
 ## Staff Information
 __Instructor:__ Prof. Mark Sherriff   
 Office: Rice 400   
-Office Hours: Wednesdays 9:00-11:00 AM & Thursdays 12:30-2:30 PM     
+Office Hours: Wednesdays 9:00-10:30 AM & Thursdays 12:30-2:00 PM     
 Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
@@ -109,7 +109,7 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 
 | Assessment	| Who	| Instances	| Max XP 	| Max XP Avail |
 |:--------------|:-----|:---|:-----|:-----|
-|Random Encounters |	Small Groups or Individual |	??? |	5 |	min 50 |
+|Random Encounters |	Small Groups or Individual |	??? |	10 |	min 50 |
 |Critical Analysis Quests |	Individual |	2 |	50 |	100 |
 |PICO-8 Mini-Game Quest | Individual | 1 | 100 | 100 |
 |Unity Mini-Game Quest |	Individual |	1 |	100 |	100 |
@@ -139,6 +139,11 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 ### Assessment Notes
 {: .no_toc }
 
+__Mini-Game Quests:__     
+* We will be using two different game framework/engines this semester - PICO-8 and Unity.
+* Students will create two _small_ games individually with each toolset.
+* It is allowed to create the same game twice, once with each toolset, if desired.
+
 __Mini-Boss Battle and Final Boss Battle:__   
 * There are two tests in the course - the Mini-Boss Battle (Midterm) and the Final Boss Battle (Final Exam).
 * The dates for these are set on the course calendar.  Students that cannot make either of these dates _must_ inform the instructor at least 72 hours in advance.
@@ -149,10 +154,16 @@ __Critical Analysis:__
 * See the Critical Analysis section of the course website for more information.
 
 __Random Encounters:__
-* Random encounters are short, in-class assessments to ascertain a student's understanding of a single concept we have been discussing recently. 
+* Random Encounters are short, in-class assessments to ascertain a student's understanding of a single concept we have been discussing recently. 
 * These could take the form of single-question quizzes, analyzing a game in class, or some other activity.
-* There will be a minimum of 10 of these throughout the semester.  However, there will likely be more than 10 and students can earn bonus XP for completing more random encounters.
-* Missed random encounters cannot be made up.
+* The "planned" Random Encounters this semester (all 5 of them) are based around in-class activities that cannot be made up outside of class.  Students who miss these, for whatever reason, cannot make them up.
+* However, there will likely be more than 5 and students can earn bonus XP for completing more random encounters.
+* Students with SDAC accommodations for modified attendance can opt to do an extra Critical Analysis in place of the Random Encounters.
+
+__Team Assessments:__    
+* Game teams will jointly submit a physical prototype, a game design document, and a final game.
+* Teams will be comprised of 2-4 students and can be self-selected.
+
 
 ### Reassessment Policy
 {: .no_toc }

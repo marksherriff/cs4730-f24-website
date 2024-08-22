@@ -60,7 +60,7 @@
   coursepack: '#'
 
 - topic: Mini-Boss Battle
-  type: exam
+  type: quiz
   date: 10/08
   coursepack: '#'
   due: "Finish Required Games Quest"

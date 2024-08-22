@@ -6,6 +6,8 @@ description: "CS 4730 | Computer Game Desgin"
 permalink: /
 ---
 
+![CS 47430 Header Image](/assets/images/cs4730header.png)
+
 # CS 4730 - Fall 2024
 ## Computer Game Design
 Our course is an introductory course in video game design and production. We will focus on both the design and technical aspects of creating a game, from concept inception and prototyping through coding and playtesting.
