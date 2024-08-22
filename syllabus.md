@@ -187,8 +187,12 @@ You may request a reassessment of any graded work in this course, subject to the
 ### Late Policy
 {: .no_toc }
 
-* In general, late work is not accepted.  If there is a late period for an assessment, this will be noted on the assessment itself and there will be a corresponding late window in Gradescope.
-* Exceptions to this rule must be approved by the instructor at least 24 hours in advance.
+* __Mini-Game Quests, Critical Analyses, and Game Design Document:__ An extension of up to seven calendar days may be requested for any reason by filling out the appropriate Google form with the assignment.  Absolutely no extensions will be given beyond what is requested through this form.  SDAC students should use this form if they have modified deadlines to request their extension.
+* __Random Encounters:__ As these are in-class only, there is no late policy.
+* __Physical Game Prototype:__ No late submissions allowed as we will demo these in class on the due date.
+* __Team Game Project:__ No late submissions allowed as we will demo these in class on the due date.
+* __Mini-Boss Battle:__ If the Mini-Boss Battle will be missed, it must be made up before scores are returned (typically within 48 hours of the assessment).
+* __Final Boss Battle:__ Students who may miss the Final Boss Battle should contact the professor ASAP.
 
 ### This Syllabus
 {: .no_toc }
