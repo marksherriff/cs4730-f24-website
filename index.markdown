@@ -15,7 +15,7 @@ Our course is an introductory course in video game design and production. We wil
 [Online Coursepack]({{ site.data.externallinks.coursepack }}){: .btn  .btn-primary .mr-2 }
 [Gradescope]({{ site.data.externallinks.gradescope }}){: .btn .btn-primary .mr-2  }
 [Piazza]({{ site.data.externallinks.piazza }}){: .btn .btn-primary .mr-2  }
-[Collab]({{ site.data.externallinks.lms }}){: .btn .btn-primary .mr-2  }
+[Canvas]({{ site.data.externallinks.lms }}){: .btn .btn-primary .mr-2  }
 [GitHub]({{ site.data.externallinks.github_organization }}){: .btn .btn-primary .mr-2  }
 
 ## Staff Information
