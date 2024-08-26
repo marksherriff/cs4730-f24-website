@@ -1,7 +1,7 @@
 - topic: History of Game Industry + What is a Game?
   type: lecture
   date: 08/27
-  coursepack: '#'
+  coursepack: 'https://www.cs4730.org/modules/reasoning%20about%20games/what-is/'
 
 - topic: Game Design Kits Lab
   type: lecture

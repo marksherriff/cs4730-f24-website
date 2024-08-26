@@ -6,8 +6,6 @@ nav_order: 3
 
 # Course Schedule
 
-## UNDER CONTRUCTION
-
 <table class="schedtab"><thead>
 <tr>
     <th>Date</th>
