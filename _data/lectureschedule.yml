@@ -8,7 +8,7 @@
 - topic: Game Design Kits Lab
   type: lecture
   date: 08/29
-  coursepack: '#'
+  coursepack: 'https://www.cs4730.org/modules/special%20topics/game-design-activity/'
 
 - topic: Mechanics, Dynamics, Aesthetics
   type: lecture
