@@ -13,12 +13,14 @@
 - topic: Mechanics, Dynamics, Aesthetics
   type: lecture
   date: 09/03
-  coursepack: '#'
+  coursepack: 'https://www.cs4730.org/modules/reasoning%20about%20games/mda/'
+  reading: MDA Paper
 
 - topic: Formal Elements of Games
   type: lecture
   date: 09/05
-  coursepack: '#'
+  coursepack: 'https://www.cs4730.org/modules/reasoning%20about%20games/formal-elements/'
+  reading: Fullerton Ch. 2
   
 - topic: Let's Play
   type: lecture

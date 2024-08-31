@@ -10,6 +10,7 @@ nav_order: 3
 <tr>
     <th>Date</th>
     <th>Topic</th>
+    <th>Reading</th>
     <th>Due Dates</th>
     </tr>
     </thead>
@@ -40,6 +41,13 @@ nav_order: 3
 {% if day.coursepack2 %}
     </a>
 {% endif %}
+{% endif %}
+</td>
+<td class="sched">
+{% if day.reading %}
+{{day.reading}}
+{% else %}
+&nbsp;
 {% endif %}
 </td>
 <td class="sched">
