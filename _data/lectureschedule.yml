@@ -22,7 +22,7 @@
   coursepack: 'https://www.cs4730.org/modules/reasoning%20about%20games/formal-elements/'
   reading: Fullerton Ch. 2
   
-- topic: Let's Play
+- topic: "Let's Play: Super Mario 3D World"
   type: lecture
   date: 09/10
   coursepack: '#'
@@ -30,7 +30,7 @@
 - topic: The Game Loop
   type: lecture
   date: 09/12
-  coursepack: '#'
+  coursepack: 'https://www.cs4730.org/modules/game%20systems/thegameloop/'
 
 - topic: Game Architectures
   type: lecture
