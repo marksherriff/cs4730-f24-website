@@ -18,6 +18,11 @@ nav_order: 5
 - Online/browser version: [https://www.pico-8-edu.com/](https://www.pico-8-edu.com/)
 - Desktop version ($15): [https://lexaloffle.itch.io/pico-8](https://lexaloffle.itch.io/pico-8)
 
+### Example Code
+
+- [Simple Platformer Example](https://github.com/Enichan/Pico8Platformer)
+- [Nerdy Teachers Platformer Tutorial w/ Videos](https://nerdyteachers.com/Explain/Platformer/)
+
 ## Unity
 
 - Download: [https://unity.com/download](https://unity.com/download)
