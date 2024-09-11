@@ -18,6 +18,11 @@ nav_order: 5
 - Online/browser version: [https://www.pico-8-edu.com/](https://www.pico-8-edu.com/)
 - Desktop version ($15): [https://lexaloffle.itch.io/pico-8](https://lexaloffle.itch.io/pico-8)
 
+### Documentation
+
+- [PICO-8 Manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html)
+- [API Cheat Sheet](https://www.lexaloffle.com/media/13822/40_PICO-8%20Cheat%20Sheet%20(4k).png)
+
 ### Example Code
 
 - [Simple Platformer Example](https://github.com/Enichan/Pico8Platformer)
