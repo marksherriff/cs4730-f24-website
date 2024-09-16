@@ -32,33 +32,33 @@
   date: 09/12
   coursepack: 'https://www.cs4730.org/modules/game%20systems/thegameloop/'
 
-- topic: Game Architectures
+- topic: TBD
   type: lecture
   date: 09/17
   coursepack: '#'
 
-- topic: Designing Mechanics
+- topic: TBD
   type: lecture
   date: 09/19
   coursepack: '#'
 
-- topic: Sprite Graphics
+- topic: TBD
   type: lecture
   date: 09/24
   coursepack: '#'
 
-- topic: Game Physics
+- topic: TBD
   type: lecture
   date: 09/26
   coursepack: '#'
   due: "Critical Analysis #1 Due"
 
-- topic: Collision Detection
+- topic: TBD
   type: lecture
   date: 10/01
   coursepack: '#'
 
-- topic: Character/Level Design
+- topic: TBD
   type: lecture
   date: 10/03
   coursepack: '#'
@@ -85,23 +85,23 @@
   coursepack: '#'
   due: 'Physical Game Prototype Due'
 
-- topic: World Building
+- topic: TBD
   type: lecture
   date: 10/22
   coursepack: '#'
 
-- topic: "The Quiet Year"
+- topic: TBD
   type: lecture
   date: 10/24
   coursepack: '#'
   due: 'Game Design Document Due'
 
-- topic: Game AI
+- topic: TBD
   type: lecture
   date: 10/29
   coursepack: '#'
 
-- topic: Game AI
+- topic: TBD
   type: lecture
   date: 10/31
   coursepack: '#'
@@ -111,17 +111,17 @@
   type: holiday
   date: 11/05
 
-- topic: Input/UX
+- topic: TBD
   type: lecture
   date: 11/07
   coursepack: '#'
 
-- topic: Game Balancing
+- topic: TBD
   type: lecture
   date: 11/12
   coursepack: '#'
 
-- topic: Game Balancing
+- topic: TBD
   type: lecture
   date: 11/14
   coursepack: '#'
@@ -136,7 +136,7 @@
   date: 11/21
   coursepack: '#'
 
-- topic: Monetization
+- topic: TBD
   type: lecture
   date: 11/26
   coursepack: '#'
