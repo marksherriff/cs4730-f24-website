@@ -32,10 +32,11 @@
   date: 09/12
   coursepack: 'https://www.cs4730.org/modules/game%20systems/thegameloop/'
 
-- topic: TBD
+- topic: Procedures vs. Rules
   type: lecture
   date: 09/17
-  coursepack: '#'
+  coursepack: 'https://www.cs4730.org/modules/game%20systems/procedures/'
+  reading: Fullerton Ch. 3
 
 - topic: TBD
   type: lecture
