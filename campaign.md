@@ -4,7 +4,7 @@ title: Campaign
 nav_order: 6
 ---
 
-## Class Campaign
+# Class Campaign
 {: .no_toc }
 
 ### Prologue

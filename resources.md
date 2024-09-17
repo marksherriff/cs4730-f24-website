@@ -4,7 +4,7 @@ title: Resources
 nav_order: 5
 ---
 
-## Resources
+# Resources
 {: .no_toc }
 
 ## Table of Contents
