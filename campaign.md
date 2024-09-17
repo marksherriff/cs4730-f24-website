@@ -30,3 +30,14 @@ __Outcome: Random encounter failed.__
 Back at the Hammer & Tongs, you convince Jymrian to distract Doomguy for a moment, allowing you to steal the Obsidian Orb taking it out behind the Hammer & Tongs.  Why would Jymrian help you in this way?  What is the purpose of the Obsidan Orb?  And why did Doomguy just have it sitting at his feet?
 
 __Outcome: Random encouter succeeded! Campaign RE-1: Aesthetics offered.__
+
+### Chapter 3: Examining the Orb (Tuesday - 9/15)
+
+After successful perception, arcana, and religion checks, your have discovered the following:
+
+- Perfectly smooth and cold
+- Flecks of white and silver across the surface
+- A light seems to glow from within
+- Called the Orb of Zoz'gathel, you know that it opens a portal to the Demon Realm, but you don't know how to activate it
+
+__Outcome: Advantage for encounter next time.  No RE offered.__
