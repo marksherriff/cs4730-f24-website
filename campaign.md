@@ -7,6 +7,9 @@ nav_order: 6
 # Class Campaign
 {: .no_toc }
 
+## Table of Contents
+{: .no_toc .text-delta }
+
 ### Prologue
 
 You and your fellow adventurers have found yourself in an unfortunate position - no gold in your pockets and no work lined up to replace said gold.  However, you have found yourself in the city of Lumineux.  The city stands in a lush valley, surrounded by verdant forests and snow-capped mountains.  Within the city, you find folks of all sorts and all walks of life.  You recognize the city as a place of opportunity for you and your party... but also, perhaps, a place of potential danger.
