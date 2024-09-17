@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Campaign
-nav_order: 5
+nav_order: 6
 ---
 
-## Campaign
+## Class Campaign
 {: .no_toc }
 
 ### Prologue
