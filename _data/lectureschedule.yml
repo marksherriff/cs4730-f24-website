@@ -38,10 +38,11 @@
   coursepack: 'https://www.cs4730.org/modules/game%20systems/procedures/'
   reading: Fullerton Ch. 3
 
-- topic: TBD
+- topic: Sprite Graphics
   type: lecture
   date: 09/19
-  coursepack: '#'
+  coursepack: 'https://www.cs4730.org/modules/concept%20and%20design/sprites/'
+  reading: "EC: Graphics vs. Aesthetics"
 
 - topic: TBD
   type: lecture
