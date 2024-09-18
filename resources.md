@@ -32,6 +32,11 @@ nav_order: 5
 
 - Download: [https://unity.com/download](https://unity.com/download)
 
+### Tutorials
+
+- [How to Install Unity - 2023 Beginner's Guide](https://www.youtube.com/watch?v=Kh_FD0Ypdhg)
+- [Set up Visual Studio Code with Unity and INTELLISENSE WORKING 2023](https://www.youtube.com/watch?v=ihVAKiJdd40)
+
 ## Assets
 
 - [itch.io](http://itch.io) has a ton of assets of all kinds available, both for free or for a small fee.
