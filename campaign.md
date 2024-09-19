@@ -37,7 +37,7 @@ Back at the Hammer & Tongs, you convince Jymrian to distract Doomguy for a momen
 
 __Outcome: Random encouter succeeded! Campaign RE-1: Aesthetics offered.__
 
-### Chapter 3: Examining the Orb (Tuesday - 9/15)
+## Chapter 3: Examining the Orb (Tuesday - 9/15)
 
 After successful perception, arcana, and religion checks, your have discovered the following:
 
