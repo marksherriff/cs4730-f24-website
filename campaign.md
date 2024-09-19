@@ -47,3 +47,11 @@ After successful perception, arcana, and religion checks, your have discovered t
 - Called the Orb of Zoz'gathel, you know that it opens a portal to the Demon Realm, but you don't know how to activate it
 
 __Outcome: Advantage for encounter next time.  No RE offered.__
+
+## Chapter 4: Returning the Orb (Thursday - 9/19)
+
+First, you dropped the orb on your foot trying to smash it (-1 HP)... but after that, you decide to take the Orb of Zoz'gathel to Brother Demetrius at the Church of [insert name of god here].  Brother Demetrius tells you that Doomguy stole the Orb from the church several days ago and he is thrilled that you have returned it.
+
+He has offered you a boon... what could the boon be?
+
+__Outcome: Campaign RE-2: Achievement Unlocked offered.__
