@@ -1,7 +1,7 @@
 - topic: History of Game Industry 
   type: lecture
   date: 08/27
-  coursepack: 'https://www.cs4730.org/modules/special%20topics/brief-history/'
+  coursepack: 'https://docs.google.com/presentation/d/1fHoXWE20f4ar0MoVJX53_1qw9mbrLK-Z8kgh9RDwDLA/edit?usp=sharing'
   topic2: What is a Game?
   coursepack2: 'https://www.cs4730.org/modules/reasoning%20about%20games/what-is/'
 
@@ -21,6 +21,7 @@
   date: 09/05
   coursepack: 'https://www.cs4730.org/modules/reasoning%20about%20games/formal-elements/'
   reading: Fullerton Ch. 2
+  readinglink: "https://doi-org.proxy1.library.virginia.edu/10.1201/9781003460268"
   
 - topic: "Let's Play: Super Mario 3D World"
   type: lecture
@@ -37,23 +38,27 @@
   date: 09/17
   coursepack: 'https://www.cs4730.org/modules/game%20systems/procedures/'
   reading: Fullerton Ch. 3
+  readinglink: "https://doi-org.proxy1.library.virginia.edu/10.1201/9781003460268"
 
 - topic: Sprite Graphics
   type: lecture
   date: 09/19
   coursepack: 'https://www.cs4730.org/modules/concept%20and%20design/sprites/'
   reading: "EC: Graphics vs. Aesthetics"
+  readinglink: "https://www.youtube.com/embed/5oK8UTRgvJU"
 
-- topic: TBD
+- topic: Physics
   type: lecture
   date: 09/24
-  coursepack: '#'
+  coursepack: 'https://docs.google.com/presentation/d/1ct16aJs3-uK_xAHB8vZ5_i865H8n6gVbM5KC5Rn6k1s/edit?usp=sharing'
 
-- topic: TBD
+- topic: Collision Detection
   type: lecture
   date: 09/26
-  coursepack: '#'
+  coursepack: 'https://docs.google.com/presentation/d/1nK1OEGJYxRoFFZgOCloqThQyEZ_FQMvWNZ5XELDV9oY/edit?usp=sharing'
   due: "Critical Analysis #1 Due"
+  reading: "SF2 Hit Boxes"
+  readinglink: "https://combovid.com/?p=956"
 
 - topic: TBD
   type: lecture

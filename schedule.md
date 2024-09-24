@@ -45,9 +45,15 @@ nav_order: 3
 </td>
 <td class="sched">
 {% if day.reading %}
+{% if day.readinglink %}
+<a href="{{day.readinglink}}">
+{% endif %}
 {{day.reading}}
 {% else %}
 &nbsp;
+{% endif %}
+{% if day.readinglink %}
+</a>
 {% endif %}
 </td>
 <td class="sched">
