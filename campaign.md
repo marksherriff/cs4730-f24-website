@@ -64,7 +64,7 @@ You then thought that perhaps formalizing your relationship with the Church of [
 
 Brother Demetrius gives you your next quest - to find the 13 sacred medallions that rest in this box:
 
-![Box of Church of Insert Name of God Here](/assets/images/box-small.png)
+[Box of Church of Insert Name of God Here](/assets/images/box-small.png)
 
 "But wait... I count 17 medallions here..." you say.
 
