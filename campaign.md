@@ -55,3 +55,23 @@ First, you dropped the orb on your foot trying to smash it (-1 HP)... but after 
 He has offered you a boon... what could the boon be?
 
 __Outcome: Campaign RE-2: Achievement Unlocked offered.__
+
+## Chapter 5: The Box
+
+Your first instinct was to ask for a new pair of magical shoes, so you could actually beat Jymrian in a race.  Alas, Brother Demetrius told you that he had no such magical item.
+
+You then thought that perhaps formalizing your relationship with the Church of [insert name of god here] could be beneficial.  It took very little convincing (seriously, it was a pretty terrible roll... Demetrius must be pretty desperate...) for you to become Champions of the Church of [insert name of god here].
+
+Brother Demetrius gives you your next quest - to find the 13 sacred medallions that rest in this box:
+
+![box-small.png]
+
+"But wait... I count 17 medallions here..." you say.
+
+"Yes, but the 13th medallion is actually split into 5 parts!" Demetrius responds.
+
+"That... that doesn't make any sense..." you reply.
+
+"Well, that's the image ChatGPT gave me when I asked a few times before giving up," he says with a shrug.
+
+__Outcome: Advantage for encounter next time.  No RE offered.__
