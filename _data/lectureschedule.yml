@@ -60,15 +60,17 @@
   reading: "SF2 Hit Boxes"
   readinglink: "https://combovid.com/?p=956"
 
-- topic: TBD
+- topic: Game AI
   type: lecture
   date: 10/01
-  coursepack: '#'
+  coursepack: 'https://docs.google.com/presentation/d/1t06jnchQOtFv7nm5Xo_WDSyQpuhud3c_sVQBBUqh_GA/edit?usp=sharing'
+  reading: "EC: Game AI"
+  readinglink: "https://youtu.be/1FBGR6vmNeU?si=zK_kzqDJ9Y67zDH4"
 
-- topic: TBD
+- topic: Game AI
   type: lecture
   date: 10/03
-  coursepack: '#'
+  coursepack: 'https://docs.google.com/presentation/d/1t06jnchQOtFv7nm5Xo_WDSyQpuhud3c_sVQBBUqh_GA/edit?usp=sharing'
 
 - topic: Mini-Boss Battle
   type: quiz
