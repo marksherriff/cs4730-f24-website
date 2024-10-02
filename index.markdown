@@ -29,6 +29,6 @@ __Teaching Assistants:__ Thomas Arnold, Sebastian Fugle, and Jennifer Vo
 
 __TA Office Hours:__ 
 
-* Thomas: Mondays, Wednesdays, and Fridays 4:00-5:00 PM via Zoom (link in Canvas)
+* Thomas: Mondays, Wednesdays, and Fridays 3:00-4:00 PM via Zoom (link in Canvas)
 * Jennifer: Wednesdays 3:30-6:30 PM in Thornton Stacks
 * Sebastian: Wednesdays 5:30-6:30 PM and Saturdays 10:00 AM-12:00 PM in Thornton Stacks
