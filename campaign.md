@@ -56,7 +56,7 @@ He has offered you a boon... what could the boon be?
 
 __Outcome: Campaign RE-2: Achievement Unlocked offered.__
 
-## Chapter 5: The Box
+## Chapter 5: The Box (Tuesday - 9/24)
 
 Your first instinct was to ask for a new pair of magical shoes, so you could actually beat Jymrian in a race.  Alas, Brother Demetrius told you that he had no such magical item.
 
@@ -75,3 +75,10 @@ Brother Demetrius gives you your next quest - to find the 13 sacred medallions t
 "Well, that's the image ChatGPT gave me when I asked a few times before giving up," he says with a shrug.
 
 __Outcome: Advantage for encounter next time.  No RE offered.__
+
+## Chapter 6: Asking Around (Thursday - 9/26)
+
+You decide to go back to Jymrian (?!?!?) to see if he knows anything about the Medallions.  He tells you that he has heard that there's an orc warlord north of Lumineux that has bragged about having two of the Medallions.  After a rather terrible role, Jymrian agrees to give your party horses and provisions for the journey north.
+
+__Outcome: Campaign RE-3: Physics offered.__
+
