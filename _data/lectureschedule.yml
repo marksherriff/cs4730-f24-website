@@ -82,7 +82,7 @@
   type: lecture
   date: 10/10
   coursepack: '#'
-  due: 'PICO-8 Mini-Game Quest Due'
+  due: 'PICO-8 Game Jam Due'
 
 - topic: Fall Break (No classes)
   type: holiday
@@ -108,13 +108,12 @@
   type: lecture
   date: 10/29
   coursepack: '#'
-  due: 'Physical Game Prototype Due'
+  due: 'Physical Prototype Due'
 
 - topic: Character Design
   type: lecture
   date: 10/31
   coursepack: '#'
-  due: 'Unity Mini-Game Quest Due'
 
 - topic: Election Day (No classes)
   type: holiday
@@ -124,6 +123,7 @@
   type: lecture
   date: 11/07
   coursepack: '#'
+  due: 'Unity Game Jam Due'
 
 - topic: Game Balancing
   type: lecture
