@@ -114,6 +114,7 @@
   type: lecture
   date: 10/31
   coursepack: '#'
+  due: 'Unity Game Jam Due'
 
 - topic: Election Day (No classes)
   type: holiday
@@ -123,7 +124,6 @@
   type: lecture
   date: 11/07
   coursepack: '#'
-  due: 'Unity Game Jam Due'
 
 - topic: Game Balancing
   type: lecture
