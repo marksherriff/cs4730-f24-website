@@ -77,13 +77,13 @@ If you choose your own game, it can be a game you have already played, although 
 
 Some content here used with permission from [Game Design Concepts by Ian Schreiber](http://gamedesignconcepts.wordpress.com/2009/07/06/level-3-formal-elements-of-games/).
 
-# PICO-8 Mini-Game Quest
+# PICO-8 Game Jam Quest
 
-_More info coming soon!_
+_See Canvas._
 
-# Unity Mini-Game Quest
+# Unity Game Jam Quest
 
-_More info coming soon!_
+_See Canvas._
 
 # Team Game Project
 
