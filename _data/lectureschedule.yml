@@ -75,14 +75,15 @@
 - topic: Mini-Boss Battle
   type: quiz
   date: 10/08
-  coursepack: '#'
   due: "Finish Required Games Quest"
 
 - topic: Game Architectures + Unity
   type: lecture
   date: 10/10
-  coursepack: '#'
+  coursepack: 'https://docs.google.com/presentation/d/1EDGBDS3w-QxHjnGcVrBrt0RUEJJc--7YTXbYJqj7pFU/edit?usp=sharing'
   due: 'PICO-8 Game Jam Due'
+  reading: 'Tutorial'
+  readinglink: 'https://youtu.be/XtQMytORBmM?si=MEkGxMTgI2OalNga'
 
 - topic: Fall Break (No classes)
   type: holiday
