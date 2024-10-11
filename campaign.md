@@ -82,3 +82,14 @@ You decide to go back to Jymrian (?!?!?) to see if he knows anything about the M
 
 __Outcome: Campaign RE-3: Physics offered.__
 
+## Chapter 7: The Orc Keep (Thursday - 10/03)
+
+In a struggle from start to finish, your adventuring party simply could not figure out how to get into the keep.  And you took a lot of arrows to the body...
+
+__Outcome: A lot of really bad rolls...__
+
+## Chapter 8: When all else fails... fire! (Thursday - 10/10)
+
+Using a Trojan Horse maneuver (with a giant binacorn), you manage to get inside the keep at night.  At which point, you decide to burn the place down (competely ignorning that you don't know whether fire will damage the medallions...).  But you manage to aquire the first two medallions and escape... with a giant burning keep behind you...
+
+__Outcome: Campaign RE-4: PICO-8 offered.__
