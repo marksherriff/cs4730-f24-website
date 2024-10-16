@@ -105,21 +105,21 @@
   coursepack: '#'
   due: 'Game Design Document Due'
 
-- topic: Physical Prototype Demos
+- topic: Character Design (Recorded)
   type: lecture
   date: 10/29
   coursepack: '#'
-  due: 'Physical Prototype Due'
 
-- topic: Character Design
+- topic: Physical Prototype Demos
   type: lecture
   date: 10/31
   coursepack: '#'
-  due: 'Unity Game Jam Due'
+  due: 'Physical Prototype Due'
 
 - topic: Election Day (No classes)
   type: holiday
   date: 11/05
+  due: 'Unity Game Jam Due'
 
 - topic: Level Design
   type: lecture
