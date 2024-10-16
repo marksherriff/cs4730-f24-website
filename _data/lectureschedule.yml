@@ -93,11 +93,16 @@
   type: lab
   date: 10/17
   coursepack: 'https://docs.google.com/presentation/d/1aj2_lFenyMQBc-mvCDko9vMbZ7WTyV-77J3BCdRfcuM/edit?usp=sharing'
+  reading: 'EC: The Magic Circle'
+  readinglink: 'https://youtu.be/qZ-EY9gTsgU'
 
 - topic: "The Quiet Year"
   type: lecture
   date: 10/22
-  coursepack: '#'
+  due: 'Team Declaration Form'
+  duelink: 'https://docs.google.com/forms/d/e/1FAIpQLScRE9RVaD6zKha4fazcwSwqk1_6S8SXHvNAAYZGXNGUM_wDiA/viewform?usp=sf_link'
+  reading: 'EC: Board Games'
+  readinglink: 'https://youtu.be/9VONeNVPaNs'
 
 - topic: Physical Prototypes
   type: lecture
@@ -108,12 +113,13 @@
 - topic: Character Design (Recorded)
   type: lecture
   date: 10/29
-  coursepack: '#'
+  coursepack: 'https://docs.google.com/presentation/d/1ZzHMKPtLBgCQppAnNoEZ7IKx6G9arztCPVh-EfGLQY4/edit?usp=sharing'
+  reading: 'EC: Myers Briggs'
+  readinglink: 'https://youtu.be/QKnNO5pxRGQ'
 
 - topic: Physical Prototype Demos
   type: lecture
   date: 10/31
-  coursepack: '#'
   due: 'Physical Prototype Due'
 
 - topic: Election Day (No classes)
@@ -124,33 +130,40 @@
 - topic: Level Design
   type: lecture
   date: 11/07
-  coursepack: '#'
+  coursepack: 'https://docs.google.com/presentation/d/1Q-baDFaIKtI8lVdxqgYrpK_-nY8ZwQ5Wo8GfIyB2pmg/edit?usp=sharing'
+  reading: 'Devs Play Doom'
+  readinglink: 'https://youtu.be/rV6HlBa88js'
 
 - topic: Game Balancing
   type: lecture
   date: 11/12
-  coursepack: '#'
+  coursepack: 'https://docs.google.com/presentation/d/1WtulC9Ubsucb7KL317abSVPAOzIpODBQiNLyAVkM4Sc/edit?usp=sharing'
+  reading: 'EC: Perfect Imbalance'
+  readinglink: 'https://www.youtube.com/watch?v=e31OSVZF77w'
 
 - topic: Game Balancing
   type: lecture
   date: 11/14
-  coursepack: '#'
+  coursepack: 'https://docs.google.com/presentation/d/1WtulC9Ubsucb7KL317abSVPAOzIpODBQiNLyAVkM4Sc/edit?usp=sharing'
+  reading: 'EC: First Moves'
+  readinglink: 'https://www.youtube.com/watch?v=TRHdIScOMWQ'
 
 - topic: Playtesting
   type: lecture
   date: 11/19
-  coursepack: '#'
+  coursepack: 'https://docs.google.com/presentation/d/15ExvRVk7eofFn-Hk9gYXGpHwMv81KyPREEJRv0llO1w/edit?usp=sharing'
+  reading: 'SMB 1-1 (Watch & Play!)'
+  readinglink: 'https://www.youtube.com/watch?v=ZH2wGpEZVgE'
 
-- topic: Playtesting Lab
+- topic: Playtesting Games In Class
   type: lecture
   date: 11/21
-  coursepack: '#'
   due: 'Working Game Demo Due'
 
 - topic: Input + UX
   type: lecture
   date: 11/26
-  coursepack: '#'
+  coursepack: 'https://docs.google.com/presentation/d/1Ze7gHjDWGOqFQB-ntm0Gx351ZM14xvO3WYIqeyLuRJw/edit?usp=sharing'
 
 - topic: Thanksgiving (No classes)
   type: holiday
@@ -165,7 +178,6 @@
 - topic: Game Expo
   type: lecture
   date: 12/05
-  coursepack: '#'
   due: 'Team Game Project Due'
 
 - topic: Final Boss Battle @ 9:00 AM
