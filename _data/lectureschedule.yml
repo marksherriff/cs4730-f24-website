@@ -107,8 +107,9 @@
 - topic: Physical Prototypes
   type: lecture
   date: 10/24
-  coursepack: '#'
+  coursepack: 'https://docs.google.com/presentation/d/1AHnoBIS5vyKIkxamv8yLnn-xWNx7VuFWjBwdrOtsiM0/edit?usp=sharing'
   due: 'Game Design Document Due'
+  reading: 'Fullerton Ch. 7 & 8'
 
 - topic: Character Design (Recorded)
   type: lecture
