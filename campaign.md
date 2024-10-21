@@ -93,3 +93,11 @@ __Outcome: A lot of really bad rolls...__
 Using a Trojan Horse maneuver (with a giant binacorn), you manage to get inside the keep at night.  At which point, you decide to burn the place down (competely ignorning that you don't know whether fire will damage the medallions...).  But you manage to aquire the first two medallions and escape... with a giant burning keep behind you...
 
 __Outcome: Campaign RE-4: PICO-8 offered.__
+
+## Chapter 9: Why not pirates? (Thursday - 10/17)
+
+Going back to the well that is apparently never dry, Jymrian once again has a lead for you on the next few medallions as relayed to him by his herald, Harold.  There's a pirate ship just off the coast that is coming in to dock soon for supplies and you decide to try to get enlisted as new pirate crew members.  First, a trip to the various ... "pirate outfitters?" around town has yielded some appropriate pirate gear (including a parrot!) and multiple peg legs... which you magically tape to your knees. 
+
+"It's a bold strategy, Cotton.  Let's see if it pays off for 'em."
+
+__Outcome: Advantage for encounter next time.  No RE offered.__
