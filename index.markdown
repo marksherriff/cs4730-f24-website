@@ -31,4 +31,4 @@ __TA Office Hours:__
 
 * Thomas: Mondays, Wednesdays, and Fridays 3:00-4:00 PM via Zoom (link in Canvas)
 * Jennifer: Wednesdays 3:30-6:30 PM in Thornton Stacks
-* Sebastian: Wednesdays 5:30-6:30 PM and Saturdays 10:00 AM-12:00 PM in Thornton Stacks
+* Sebastian: Wednesdays 5:00-6:30 PM and Saturdays 11:00 AM-12:30 PM in Thornton Stacks
