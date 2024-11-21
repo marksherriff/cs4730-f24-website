@@ -161,10 +161,9 @@
   date: 11/21
   due: 'Working Game Demo Due'
 
-- topic: Input + UX
+- topic: Project Workday (No Lecture)
   type: lecture
   date: 11/26
-  coursepack: 'https://docs.google.com/presentation/d/1Ze7gHjDWGOqFQB-ntm0Gx351ZM14xvO3WYIqeyLuRJw/edit?usp=sharing'
 
 - topic: Thanksgiving (No classes)
   type: holiday
